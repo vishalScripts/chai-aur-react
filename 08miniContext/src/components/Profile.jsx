@@ -24,7 +24,7 @@ function Profile() {
       >
         <img
           src={data.avatar_url}
-          alt="AirMax Pro"
+          alt="avatar"
           class="z-0 h-full w-full object-cover "
         />
         <div
