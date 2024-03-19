@@ -1,0 +1,16 @@
+00:00:00:00 context api with local storage
+01:15:32:11 Redux toolkit crash course
+02:25:50:08 Our mega project in React
+02:36:12:16 Appwrite backend for react project
+02:51:11:06 ENV and Appwrite in React project
+03:25:38:22 Build authentication service with appwrite
+03:52:26:08 Appwrite database, file upload and custom queries
+04:25:37:24 How to configure redux toolkit in big projects
+04:53:57:17 Production grade react components
+05:37:42:24 How to use React hook form in production
+06:39:55:01 adding form and slug values
+07:23:30:18 building pages
+07:53:06:06 CORS and debugging in React Project
+08:18:44:16 Assignments for your react course
+08:35:45:09 React series ends here
+
